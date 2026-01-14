@@ -1,0 +1,43 @@
+14.01.26.
+Änderungen der Ordnerstruktur:
+
+-> bedeutet Namensänderungen
+
+---------------------------------------------------------------------------------
+Deliverables -> Diagrammen
+
+Ordner: Archiv in Hauptstruktur verschoben
+---------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------
+Alle Dateien stehen in der neuen Ordner Dokumentationen Lasten- und Pflichtenheft
+Alte Ordner werden gelöscht
+---------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------
+Programm Ressourcen -> Informationen zum Spiel ONI
+
+Ideen Projekt ONI -> Erste Ideen Projekt ONI
+
+Ressourcen zum Gameplays -> Erklärung des Gameplays
+---------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------
+Projekt Ressourcen -> Intern (gibt bestimmt bessere Namensvergebeung)
+
+Dateien in Erwartungen:
+
+Erwartung an Kanban -> Arbeiten mit Kanban
+Erwartungen an die Gruppe -> Wie läuft die Gruppenarbeit ab
+
+Dateien in Infos:
+
+Infos zu Github -> Arbeiten mit Github
+
+Folgende Ordner werden gelöscht:
+Erwartungen (leer)
+Infos (leer)
+Worterklärungen + die Dateien (Spielt bei der neuen Ordnerstruktur keine Rolle mehr)
+
+Datei Fragen Töller wird ins Archiv verschoben
+---------------------------------------------------------------------------------
